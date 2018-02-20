@@ -10,8 +10,8 @@ This project was cloned from [StephenGrider/ReduxSimpleStarter](https://github.c
 ### Installation
 
 ```
-> git clone https://github.com/fibanez6/React-Redux-SimpleStarter.git
-> cd React-Redux-SimpleStarter
+> git clone https://github.com/fibanez6/react-redux-simpleStarter.git
+> cd react-redux-simpleStarter
 > npm install
 > npm start
 ```
